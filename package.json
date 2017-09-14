@@ -1,0 +1,58 @@
+{
+  "name": "VidaEasy",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "configureJPush": "node node_modules/jpush-react-native/JPushConfiguration.js",
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "install-android": "cd android/ && gradlew installRelease",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@expo/react-native-action-sheet": "^1.0.0",
+    "axios": "^0.16.2",
+    "crypto-js": "^3.1.9-1",
+    "gulp-compression": "git+https://github.com/94cstyles/gulp-compression.git",
+    "jcore-react-native": "^1.1.8",
+    "jpush-react-native": "git+https://github.com/dengshasha/jpush-react-native.git",
+    "lodash": "^4.17.4",
+    "react": "~15.4.1",
+    "react-native": "^0.42.3",
+    "react-native-blur": "^3.0.0",
+    "react-native-camera": "git+https://github.com/chinaczy/react-native-camera.git",
+    "react-native-device-info": "^0.10.2",
+    "react-native-easy-toast": "^1.0.5",
+    "react-native-gifted-spinner": "^0.1.0",
+    "react-native-image-crop-picker": "^0.16.0",
+    "react-native-image-picker": "^0.26.6",
+    "react-native-linear-gradient": "^2.0.0",
+    "react-native-localization": "^0.1.15",
+    "react-native-root-siblings": "^1.2.1",
+    "react-native-scrollable-tab-view": "^0.7.2",
+    "react-native-smart-pull-to-refresh-listview": "^1.6.10",
+    "react-native-snap-carousel": "^2.1.4",
+    "react-native-storage": "^0.2.2",
+    "react-native-swipeout": "^2.1.1",
+    "react-native-swiper": "^1.5.4",
+    "react-native-video": "^1.0.0",
+    "react-native-view-shot": "^1.9.1",
+    "react-native-viewpager": "^0.2.13",
+    "react-native-wechat": "git+https://github.com/yorkie/react-native-wechat.git#8ca60b836609af3741cbcf3dcbae81527ab8f184",
+    "react-redux": "^4.4.8",
+    "react-test-renderer": "~15.4.1",
+    "react-timer-mixin": "^0.13.3",
+    "redux": "^3.7.2",
+    "redux-promise-middleware": "^4.4.1",
+    "redux-thunk": "^2.2.0",
+    "rn-umeng": "^1.0.6"
+  },
+  "devDependencies": {
+    "babel-jest": "19.0.0",
+    "babel-preset-react-native": "1.9.1",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "jest": "19.0.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

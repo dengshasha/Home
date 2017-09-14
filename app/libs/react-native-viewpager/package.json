@@ -1,0 +1,61 @@
+{
+  "name": "react-native-viewpager",
+  "version": "0.2.11",
+  "description": "ViewPager componnent for React Native",
+  "main": "ViewPager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/race604/react-native-viewpager.git"
+  },
+  "keywords": [
+    "react-native-component",
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "viewpager",
+    "pager"
+  ],
+  "author": {
+    "name": "Race604"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/race604/react-native-viewpager/issues"
+  },
+  "homepage": "https://github.com/race604/react-native-viewpager#readme",
+  "dependencies": {
+    "react-timer-mixin": "^0.13.3",
+    "warning": "^2.1.0"
+  },
+  "gitHead": "1e78c71117b2c110465eddc278b746c84ada6733",
+  "_id": "react-native-viewpager@0.2.11",
+  "_shasum": "7fff6bacdf3e354040422ba62a5f4f66fd1003e1",
+  "_from": "react-native-viewpager@>=0.2.1 <0.3.0",
+  "_npmVersion": "3.8.3",
+  "_nodeVersion": "5.10.1",
+  "_npmUser": {
+    "name": "race604",
+    "email": "race604@gmail.com"
+  },
+  "dist": {
+    "shasum": "7fff6bacdf3e354040422ba62a5f4f66fd1003e1",
+    "tarball": "https://registry.npmjs.org/react-native-viewpager/-/react-native-viewpager-0.2.11.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "race604",
+      "email": "race604@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-viewpager-0.2.11.tgz_1467092507896_0.16979693085886538"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/react-native-viewpager/-/react-native-viewpager-0.2.11.tgz",
+  "readme": "ERROR: No README data found!"
+}

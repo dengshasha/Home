@@ -1,0 +1,108 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-webview-crosswalk",
+        "scope": null,
+        "escapedName": "react-native-webview-crosswalk",
+        "name": "react-native-webview-crosswalk",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/jianglin/workspace/android/reactNative/project/mobile-app/VidaHouse"
+    ]
+  ],
+  "_from": "react-native-webview-crosswalk@latest",
+  "_id": "react-native-webview-crosswalk@0.2.5",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-webview-crosswalk",
+  "_nodeVersion": "6.2.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-webview-crosswalk-0.2.5.tgz_1468442896640_0.17703409888781607"
+  },
+  "_npmUser": {
+    "name": "jordansexton",
+    "email": "jordan@jordansexton.com"
+  },
+  "_npmVersion": "3.8.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-webview-crosswalk",
+    "scope": null,
+    "escapedName": "react-native-webview-crosswalk",
+    "name": "react-native-webview-crosswalk",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-webview-crosswalk/-/react-native-webview-crosswalk-0.2.5.tgz",
+  "_shasum": "fed88d43c674f76fd26831b532d008c06bceadd7",
+  "_shrinkwrap": null,
+  "_spec": "react-native-webview-crosswalk",
+  "_where": "/home/jianglin/workspace/android/reactNative/project/mobile-app/VidaHouse",
+  "author": {
+    "name": "Jordan Sexton",
+    "email": "jordan@jordansexton.com"
+  },
+  "bugs": {
+    "url": "https://github.com/jordansexton/react-native-webview-crosswalk/issues"
+  },
+  "contributors": [
+    {
+      "name": "Jordan Sexton",
+      "email": "jordan@jordansexton.com"
+    },
+    {
+      "name": "Faruq Rasid",
+      "email": "github@ruqqq.sg"
+    }
+  ],
+  "dependencies": {},
+  "description": "Crosswalk's WebView for React Native on Android",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "fed88d43c674f76fd26831b532d008c06bceadd7",
+    "tarball": "https://registry.npmjs.org/react-native-webview-crosswalk/-/react-native-webview-crosswalk-0.2.5.tgz"
+  },
+  "gitHead": "7600d282404c131e601f29e805931a5dfdaea6d6",
+  "homepage": "https://github.com/jordansexton/react-native-webview-crosswalk",
+  "keywords": [
+    "react",
+    "native",
+    "react native",
+    "webview",
+    "crosswalk",
+    "xwalk",
+    "android"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "jordansexton",
+      "email": "jordan@jordansexton.com"
+    }
+  ],
+  "name": "react-native-webview-crosswalk",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react": ">=0.14.5",
+    "react-native": ">=0.25.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordansexton/react-native-webview-crosswalk.git"
+  },
+  "scripts": {
+    "postinstall": "./crosswalk.sh"
+  },
+  "version": "0.2.5"
+}

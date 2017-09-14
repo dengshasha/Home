@@ -1,0 +1,11 @@
+<resources>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="clear_empty">清空</string>
+    <string name="iknow">知道了</string>
+
+    <!-- 登录/注册 -->
+    <string name="login_failed">帐号或密码错误</string>
+    <string name="logining">登录中\u2026</string>
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="finish_confirm">确定结束直播？</string>
+    <string name="confirm">确定</string>
+    <string name="loading">连接中，请等待...</string>
+    <string name="live_finish">直播已结束</string>
+</resources>
